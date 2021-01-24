@@ -15,5 +15,6 @@
 	"pino": "^6.11.0",
 	"sqlite": "^4.0.19",
 	"sqlite3": "^5.0.1"
-  }
+  },
+  "repository": "https://github.com/usuket/jp-finance"
 }
